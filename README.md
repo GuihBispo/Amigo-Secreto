@@ -8,9 +8,13 @@ Durante o desafio, os participantes são convidados a explorar conceitos fundame
 
 ## Estrutura do Projeto :
 app.js
+
 assets/
+
 index.html
+
 style.css
+
 README.md
 
 ## Descrição dos Arquivos
