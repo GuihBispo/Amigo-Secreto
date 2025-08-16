@@ -1,6 +1,6 @@
 # Amigo-Secreto
 
-![Imagem do Site](challenge-amigo-secreto(Guilherme Bispo)/SorteioAmigoSecreto.png)
+<img width="923" height="436" alt="Image" src="https://github.com/user-attachments/assets/158e81da-817f-46e8-bd4a-40d22754aad7" />
 
 🎯 Sobre o Projeto :
 Este projeto é parte de um desafio promovido pela plataforma Alura, em colaboração com o programa Oracle Next Education (ONE). Seu principal objetivo é estimular o desenvolvimento e o aperfeiçoamento das habilidades em JavaScript, por meio da prática ativa.
