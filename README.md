@@ -1,3 +1,4 @@
 # Amigo-Secreto
-Este é um projeto de desafio proposto pela plataforma Alura em parceria com a Oracle One, no qual o objetivo é praticar e aperfeiçoar as habilidades utilizando JavaScript.
-Manipulando arrays, loops e interações para criar um sorteio de amigo secreto.
+🎯 Sobre o Projeto :
+Este projeto é parte de um desafio promovido pela plataforma Alura, em colaboração com o programa Oracle Next Education (ONE). Seu principal objetivo é estimular o desenvolvimento e o aperfeiçoamento das habilidades em JavaScript, por meio da prática ativa.
+Durante o desafio, os participantes são convidados a explorar conceitos fundamentais da linguagem, como manipulação de arrays, estrutura de loops e interações dinâmicas, aplicando esses conhecimentos na criação de um sistema de sorteio de amigo secreto.
