@@ -19,7 +19,9 @@ README.md
 
 ## Descrição dos Arquivos
 app.js : Possui a lógica principal proposta pelo projeto.
+
 index.html : Estrutura HTML utilizada na aplicação.
+
 style.css : Estilos CSS utilizados na aplicação.
 
 ## Tecnologias usadas na entrega do projeto
